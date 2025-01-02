@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sshibb
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript, html, css
+- 🌱 I’m currently learning JavaScript with different frameworks
 - 😄 Pronouns: he/his
 
 <!---
